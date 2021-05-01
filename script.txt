@@ -1,0 +1,2 @@
+cat < zadanie2.c | grep 'connection';
+ls -al | grep exe;
